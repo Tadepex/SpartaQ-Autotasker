@@ -1,0 +1,40 @@
+C:\Users\Tadepex\source\repos\SpartaQ\SpartaQ\obj\Debug\SpartaQ.csprojAssemblyReference.cache
+C:\Users\Tadepex\source\repos\SpartaQ\SpartaQ\obj\Debug\SpartaQ.Form1.resources
+C:\Users\Tadepex\source\repos\SpartaQ\SpartaQ\obj\Debug\SpartaQ.Properties.Resources.resources
+C:\Users\Tadepex\source\repos\SpartaQ\SpartaQ\obj\Debug\SpartaQ.csproj.GenerateResource.cache
+C:\Users\Tadepex\source\repos\SpartaQ\SpartaQ\obj\Debug\SpartaQ.csproj.CoreCompileInputs.cache
+C:\Users\Tadepex\source\repos\SpartaQ\SpartaQ\bin\Debug\SpartaQ.exe.config
+C:\Users\Tadepex\source\repos\SpartaQ\SpartaQ\bin\Debug\SpartaQ.exe
+C:\Users\Tadepex\source\repos\SpartaQ\SpartaQ\bin\Debug\SpartaQ.pdb
+C:\Users\Tadepex\source\repos\SpartaQ\SpartaQ\obj\Debug\SpartaQ.exe
+C:\Users\Tadepex\source\repos\SpartaQ\SpartaQ\obj\Debug\SpartaQ.pdb
+C:\Users\Tatu\source\repos\SpartaQ\SpartaQ\bin\Debug\SpartaQ.exe.config
+C:\Users\Tatu\source\repos\SpartaQ\SpartaQ\bin\Debug\SpartaQ.exe
+C:\Users\Tatu\source\repos\SpartaQ\SpartaQ\bin\Debug\SpartaQ.pdb
+C:\Users\Tatu\source\repos\SpartaQ\SpartaQ\obj\Debug\SpartaQ.csprojAssemblyReference.cache
+C:\Users\Tatu\source\repos\SpartaQ\SpartaQ\obj\Debug\SpartaQ.Form1.resources
+C:\Users\Tatu\source\repos\SpartaQ\SpartaQ\obj\Debug\SpartaQ.Properties.Resources.resources
+C:\Users\Tatu\source\repos\SpartaQ\SpartaQ\obj\Debug\SpartaQ.csproj.GenerateResource.cache
+C:\Users\Tatu\source\repos\SpartaQ\SpartaQ\obj\Debug\SpartaQ.csproj.CoreCompileInputs.cache
+C:\Users\Tatu\source\repos\SpartaQ\SpartaQ\obj\Debug\SpartaQ.exe
+C:\Users\Tatu\source\repos\SpartaQ\SpartaQ\obj\Debug\SpartaQ.pdb
+C:\Users\Tadepex\source\repos\SpartaQ 1805\SpartaQ\bin\Debug\SpartaQ.exe.config
+C:\Users\Tadepex\source\repos\SpartaQ 1805\SpartaQ\bin\Debug\SpartaQ.exe
+C:\Users\Tadepex\source\repos\SpartaQ 1805\SpartaQ\bin\Debug\SpartaQ.pdb
+C:\Users\Tadepex\source\repos\SpartaQ 1805\SpartaQ\obj\Debug\SpartaQ.csprojAssemblyReference.cache
+C:\Users\Tadepex\source\repos\SpartaQ 1805\SpartaQ\obj\Debug\SpartaQ.Form1.resources
+C:\Users\Tadepex\source\repos\SpartaQ 1805\SpartaQ\obj\Debug\SpartaQ.Properties.Resources.resources
+C:\Users\Tadepex\source\repos\SpartaQ 1805\SpartaQ\obj\Debug\SpartaQ.csproj.GenerateResource.cache
+C:\Users\Tadepex\source\repos\SpartaQ 1805\SpartaQ\obj\Debug\SpartaQ.csproj.CoreCompileInputs.cache
+C:\Users\Tadepex\source\repos\SpartaQ 1805\SpartaQ\obj\Debug\SpartaQ.exe
+C:\Users\Tadepex\source\repos\SpartaQ 1805\SpartaQ\obj\Debug\SpartaQ.pdb
+C:\Users\Tatu\SpartaQ\SpartaQ\bin\Debug\SpartaQ.exe.config
+C:\Users\Tatu\SpartaQ\SpartaQ\bin\Debug\SpartaQ.exe
+C:\Users\Tatu\SpartaQ\SpartaQ\bin\Debug\SpartaQ.pdb
+C:\Users\Tatu\SpartaQ\SpartaQ\obj\Debug\SpartaQ.csprojAssemblyReference.cache
+C:\Users\Tatu\SpartaQ\SpartaQ\obj\Debug\SpartaQ.Form1.resources
+C:\Users\Tatu\SpartaQ\SpartaQ\obj\Debug\SpartaQ.Properties.Resources.resources
+C:\Users\Tatu\SpartaQ\SpartaQ\obj\Debug\SpartaQ.csproj.GenerateResource.cache
+C:\Users\Tatu\SpartaQ\SpartaQ\obj\Debug\SpartaQ.csproj.CoreCompileInputs.cache
+C:\Users\Tatu\SpartaQ\SpartaQ\obj\Debug\SpartaQ.exe
+C:\Users\Tatu\SpartaQ\SpartaQ\obj\Debug\SpartaQ.pdb
